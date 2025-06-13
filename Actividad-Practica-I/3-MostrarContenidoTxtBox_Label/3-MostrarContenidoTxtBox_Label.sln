@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-MostrarContenidoTxtBox_Label", "3-MostrarContenidoTxtBox_Label\3-MostrarContenidoTxtBox_Label.csproj", "{F1625208-A753-414F-985E-0400C842EF62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1625208-A753-414F-985E-0400C842EF62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1625208-A753-414F-985E-0400C842EF62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1625208-A753-414F-985E-0400C842EF62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1625208-A753-414F-985E-0400C842EF62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A44C4687-0A79-4B24-B158-53E42735885F}
+	EndGlobalSection
+EndGlobal

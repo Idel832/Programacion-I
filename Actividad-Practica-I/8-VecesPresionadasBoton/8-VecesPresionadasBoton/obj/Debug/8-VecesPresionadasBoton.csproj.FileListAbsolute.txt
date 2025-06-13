@@ -1,0 +1,11 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\8-VecesPresionadasBoton\8-VecesPresionadasBoton\obj\Debug\8-VecesPresionadasBoton.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\8-VecesPresionadasBoton\8-VecesPresionadasBoton\obj\Debug\_8_VecesPresionadasBoton.Form_Main.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\8-VecesPresionadasBoton\8-VecesPresionadasBoton\obj\Debug\_8_VecesPresionadasBoton.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\8-VecesPresionadasBoton\8-VecesPresionadasBoton\obj\Debug\8-VecesPresionadasBoton.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\8-VecesPresionadasBoton\8-VecesPresionadasBoton\obj\Debug\8-VecesPresionadasBoton.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\8-VecesPresionadasBoton\8-VecesPresionadasBoton\bin\Debug\8-VecesPresionadasBoton.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\8-VecesPresionadasBoton\8-VecesPresionadasBoton\bin\Debug\8-VecesPresionadasBoton.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\8-VecesPresionadasBoton\8-VecesPresionadasBoton\bin\Debug\8-VecesPresionadasBoton.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\8-VecesPresionadasBoton\8-VecesPresionadasBoton\obj\Debug\8-VecesPresionadasBoton.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\8-VecesPresionadasBoton\8-VecesPresionadasBoton\obj\Debug\8-VecesPresionadasBoton.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\8-VecesPresionadasBoton\8-VecesPresionadasBoton\obj\Debug\8-VecesPresionadasBoton.exe.config

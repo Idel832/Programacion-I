@@ -1,0 +1,11 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\2-BotonCambiaTexto\2-BotonCambiaTexto\obj\Debug\2-BotonCambiaTexto.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\2-BotonCambiaTexto\2-BotonCambiaTexto\obj\Debug\_2_BotonCambiaTexto.Form_Main.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\2-BotonCambiaTexto\2-BotonCambiaTexto\obj\Debug\_2_BotonCambiaTexto.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\2-BotonCambiaTexto\2-BotonCambiaTexto\obj\Debug\2-BotonCambiaTexto.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\2-BotonCambiaTexto\2-BotonCambiaTexto\obj\Debug\2-BotonCambiaTexto.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\2-BotonCambiaTexto\2-BotonCambiaTexto\bin\Debug\2-BotonCambiaTexto.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\2-BotonCambiaTexto\2-BotonCambiaTexto\bin\Debug\2-BotonCambiaTexto.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\2-BotonCambiaTexto\2-BotonCambiaTexto\bin\Debug\2-BotonCambiaTexto.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\2-BotonCambiaTexto\2-BotonCambiaTexto\obj\Debug\2-BotonCambiaTexto.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\2-BotonCambiaTexto\2-BotonCambiaTexto\obj\Debug\2-BotonCambiaTexto.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\2-BotonCambiaTexto\2-BotonCambiaTexto\obj\Debug\2-BotonCambiaTexto.exe.config

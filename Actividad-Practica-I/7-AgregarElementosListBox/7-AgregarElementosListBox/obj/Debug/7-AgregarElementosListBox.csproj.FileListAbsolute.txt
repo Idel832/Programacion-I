@@ -1,0 +1,11 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\7-AgregarElementosListBox\7-AgregarElementosListBox\bin\Debug\7-AgregarElementosListBox.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\7-AgregarElementosListBox\7-AgregarElementosListBox\bin\Debug\7-AgregarElementosListBox.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\7-AgregarElementosListBox\7-AgregarElementosListBox\bin\Debug\7-AgregarElementosListBox.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\7-AgregarElementosListBox\7-AgregarElementosListBox\obj\Debug\7-AgregarElementosListBox.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\7-AgregarElementosListBox\7-AgregarElementosListBox\obj\Debug\_7_AgregarElementosListBox.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\7-AgregarElementosListBox\7-AgregarElementosListBox\obj\Debug\7-AgregarElementosListBox.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\7-AgregarElementosListBox\7-AgregarElementosListBox\obj\Debug\7-AgregarElementosListBox.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\7-AgregarElementosListBox\7-AgregarElementosListBox\obj\Debug\7-AgregarElementosListBox.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\7-AgregarElementosListBox\7-AgregarElementosListBox\obj\Debug\7-AgregarElementosListBox.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\7-AgregarElementosListBox\7-AgregarElementosListBox\obj\Debug\7-AgregarElementosListBox.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\7-AgregarElementosListBox\7-AgregarElementosListBox\obj\Debug\_7_AgregarElementosListBox.Form_Main.resources

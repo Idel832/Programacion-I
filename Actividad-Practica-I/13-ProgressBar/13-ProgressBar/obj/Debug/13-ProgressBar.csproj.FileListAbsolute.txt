@@ -1,0 +1,11 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\13-ProgressBar\13-ProgressBar\bin\Debug\13-ProgressBar.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\13-ProgressBar\13-ProgressBar\bin\Debug\13-ProgressBar.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\13-ProgressBar\13-ProgressBar\bin\Debug\13-ProgressBar.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\13-ProgressBar\13-ProgressBar\obj\Debug\13-ProgressBar.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\13-ProgressBar\13-ProgressBar\obj\Debug\_13_ProgressBar.Form_Main.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\13-ProgressBar\13-ProgressBar\obj\Debug\_13_ProgressBar.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\13-ProgressBar\13-ProgressBar\obj\Debug\13-ProgressBar.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\13-ProgressBar\13-ProgressBar\obj\Debug\13-ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\13-ProgressBar\13-ProgressBar\obj\Debug\13-ProgressBar.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\13-ProgressBar\13-ProgressBar\obj\Debug\13-ProgressBar.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\13-ProgressBar\13-ProgressBar\obj\Debug\13-ProgressBar.exe.config

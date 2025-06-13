@@ -1,0 +1,11 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\5-MostrarBotonSeleccionado\5-MostrarBotonSeleccionado\bin\Debug\5-MostrarBotonSeleccionado.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\5-MostrarBotonSeleccionado\5-MostrarBotonSeleccionado\bin\Debug\5-MostrarBotonSeleccionado.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\5-MostrarBotonSeleccionado\5-MostrarBotonSeleccionado\bin\Debug\5-MostrarBotonSeleccionado.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\5-MostrarBotonSeleccionado\5-MostrarBotonSeleccionado\obj\Debug\5-MostrarBotonSeleccionado.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\5-MostrarBotonSeleccionado\5-MostrarBotonSeleccionado\obj\Debug\_5_MostrarBotonSeleccionado.Form_Main.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\5-MostrarBotonSeleccionado\5-MostrarBotonSeleccionado\obj\Debug\_5_MostrarBotonSeleccionado.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\5-MostrarBotonSeleccionado\5-MostrarBotonSeleccionado\obj\Debug\5-MostrarBotonSeleccionado.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\5-MostrarBotonSeleccionado\5-MostrarBotonSeleccionado\obj\Debug\5-MostrarBotonSeleccionado.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\5-MostrarBotonSeleccionado\5-MostrarBotonSeleccionado\obj\Debug\5-MostrarBotonSeleccionado.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\5-MostrarBotonSeleccionado\5-MostrarBotonSeleccionado\obj\Debug\5-MostrarBotonSeleccionado.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\5-MostrarBotonSeleccionado\5-MostrarBotonSeleccionado\obj\Debug\5-MostrarBotonSeleccionado.exe.config

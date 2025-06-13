@@ -1,0 +1,10 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\14-TabControl\14-TabControl\bin\Debug\14-TabControl.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\14-TabControl\14-TabControl\bin\Debug\14-TabControl.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\14-TabControl\14-TabControl\bin\Debug\14-TabControl.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\14-TabControl\14-TabControl\obj\Debug\14-TabControl.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\14-TabControl\14-TabControl\obj\Debug\_14_TabControl.Form_Main.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\14-TabControl\14-TabControl\obj\Debug\_14_TabControl.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\14-TabControl\14-TabControl\obj\Debug\14-TabControl.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\14-TabControl\14-TabControl\obj\Debug\14-TabControl.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\14-TabControl\14-TabControl\obj\Debug\14-TabControl.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\14-TabControl\14-TabControl\obj\Debug\14-TabControl.pdb

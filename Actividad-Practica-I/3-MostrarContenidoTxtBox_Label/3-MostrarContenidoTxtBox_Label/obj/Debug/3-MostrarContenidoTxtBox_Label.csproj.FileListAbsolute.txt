@@ -1,0 +1,10 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\3-MostrarContenidoTxtBox_Label\3-MostrarContenidoTxtBox_Label\bin\Debug\3-MostrarContenidoTxtBox_Label.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\3-MostrarContenidoTxtBox_Label\3-MostrarContenidoTxtBox_Label\bin\Debug\3-MostrarContenidoTxtBox_Label.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\3-MostrarContenidoTxtBox_Label\3-MostrarContenidoTxtBox_Label\bin\Debug\3-MostrarContenidoTxtBox_Label.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\3-MostrarContenidoTxtBox_Label\3-MostrarContenidoTxtBox_Label\obj\Debug\3-MostrarContenidoTxtBox_Label.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\3-MostrarContenidoTxtBox_Label\3-MostrarContenidoTxtBox_Label\obj\Debug\_3_MostrarContenidoTxtBox_Label.Form_Main.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\3-MostrarContenidoTxtBox_Label\3-MostrarContenidoTxtBox_Label\obj\Debug\_3_MostrarContenidoTxtBox_Label.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\3-MostrarContenidoTxtBox_Label\3-MostrarContenidoTxtBox_Label\obj\Debug\3-MostrarContenidoTxtBox_Label.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\3-MostrarContenidoTxtBox_Label\3-MostrarContenidoTxtBox_Label\obj\Debug\3-MostrarContenidoTxtBox_Label.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\3-MostrarContenidoTxtBox_Label\3-MostrarContenidoTxtBox_Label\obj\Debug\3-MostrarContenidoTxtBox_Label.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\3-MostrarContenidoTxtBox_Label\3-MostrarContenidoTxtBox_Label\obj\Debug\3-MostrarContenidoTxtBox_Label.pdb

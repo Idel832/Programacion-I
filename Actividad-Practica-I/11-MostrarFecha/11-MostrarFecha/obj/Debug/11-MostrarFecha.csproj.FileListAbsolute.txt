@@ -1,0 +1,11 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\11-MostrarFecha\11-MostrarFecha\bin\Debug\11-MostrarFecha.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\11-MostrarFecha\11-MostrarFecha\bin\Debug\11-MostrarFecha.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\11-MostrarFecha\11-MostrarFecha\bin\Debug\11-MostrarFecha.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\11-MostrarFecha\11-MostrarFecha\obj\Debug\11-MostrarFecha.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\11-MostrarFecha\11-MostrarFecha\obj\Debug\_11_MostrarFecha.Form_Main.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\11-MostrarFecha\11-MostrarFecha\obj\Debug\_11_MostrarFecha.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\11-MostrarFecha\11-MostrarFecha\obj\Debug\11-MostrarFecha.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\11-MostrarFecha\11-MostrarFecha\obj\Debug\11-MostrarFecha.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\11-MostrarFecha\11-MostrarFecha\obj\Debug\11-MostrarFecha.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\11-MostrarFecha\11-MostrarFecha\obj\Debug\11-MostrarFecha.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\11-MostrarFecha\11-MostrarFecha\obj\Debug\11-MostrarFecha.exe.config

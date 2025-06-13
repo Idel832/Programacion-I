@@ -1,0 +1,11 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\10-MensajeEmergente\10-MensajeEmergente\bin\Debug\10-MensajeEmergente.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\10-MensajeEmergente\10-MensajeEmergente\bin\Debug\10-MensajeEmergente.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\10-MensajeEmergente\10-MensajeEmergente\bin\Debug\10-MensajeEmergente.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\10-MensajeEmergente\10-MensajeEmergente\obj\Debug\10-MensajeEmergente.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\10-MensajeEmergente\10-MensajeEmergente\obj\Debug\_10_MensajeEmergente.Form_Main.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\10-MensajeEmergente\10-MensajeEmergente\obj\Debug\_10_MensajeEmergente.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\10-MensajeEmergente\10-MensajeEmergente\obj\Debug\10-MensajeEmergente.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\10-MensajeEmergente\10-MensajeEmergente\obj\Debug\10-MensajeEmergente.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\10-MensajeEmergente\10-MensajeEmergente\obj\Debug\10-MensajeEmergente.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\10-MensajeEmergente\10-MensajeEmergente\obj\Debug\10-MensajeEmergente.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\10-MensajeEmergente\10-MensajeEmergente\obj\Debug\10-MensajeEmergente.exe.config

@@ -1,0 +1,11 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\12-TransformarTemperaturas\12-TransformarTemperaturas\obj\Debug\12-TransformarTemperaturas.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\12-TransformarTemperaturas\12-TransformarTemperaturas\obj\Debug\_12_TransformarTemperaturas.Form_Main.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\12-TransformarTemperaturas\12-TransformarTemperaturas\obj\Debug\_12_TransformarTemperaturas.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\12-TransformarTemperaturas\12-TransformarTemperaturas\obj\Debug\12-TransformarTemperaturas.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\12-TransformarTemperaturas\12-TransformarTemperaturas\obj\Debug\12-TransformarTemperaturas.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\12-TransformarTemperaturas\12-TransformarTemperaturas\bin\Debug\12-TransformarTemperaturas.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\12-TransformarTemperaturas\12-TransformarTemperaturas\bin\Debug\12-TransformarTemperaturas.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\12-TransformarTemperaturas\12-TransformarTemperaturas\bin\Debug\12-TransformarTemperaturas.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\12-TransformarTemperaturas\12-TransformarTemperaturas\obj\Debug\12-TransformarTemperaturas.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\12-TransformarTemperaturas\12-TransformarTemperaturas\obj\Debug\12-TransformarTemperaturas.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\12-TransformarTemperaturas\12-TransformarTemperaturas\obj\Debug\12-TransformarTemperaturas.exe.config

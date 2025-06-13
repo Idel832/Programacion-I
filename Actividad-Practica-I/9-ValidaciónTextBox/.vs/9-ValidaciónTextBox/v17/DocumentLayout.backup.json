@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sr-07\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\9-Validaci\u00F3nTextBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD553208-9159-4563-8E30-F187E41CA2B1}|9-Validaci\u00F3nTextBox\\9-Validaci\u00F3nTextBox.csproj|c:\\users\\sr-07\\desktop\\materias actuales\\lenguaje de programaci\u00F3n i inf-4311\\programas\\9-validaci\u00F3ntextbox\\9-validaci\u00F3ntextbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD553208-9159-4563-8E30-F187E41CA2B1}|9-Validaci\u00F3nTextBox\\9-Validaci\u00F3nTextBox.csproj|solutionrelative:9-validaci\u00F3ntextbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD553208-9159-4563-8E30-F187E41CA2B1}|9-Validaci\u00F3nTextBox\\9-Validaci\u00F3nTextBox.csproj|c:\\users\\sr-07\\desktop\\materias actuales\\lenguaje de programaci\u00F3n i inf-4311\\programas\\9-validaci\u00F3ntextbox\\9-validaci\u00F3ntextbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD553208-9159-4563-8E30-F187E41CA2B1}|9-Validaci\u00F3nTextBox\\9-Validaci\u00F3nTextBox.csproj|solutionrelative:9-validaci\u00F3ntextbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sr-07\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\9-Validaci\u00F3nTextBox\\9-Validaci\u00F3nTextBox\\Form1.cs",
+              "RelativeDocumentMoniker": "9-Validaci\u00F3nTextBox\\Form1.cs",
+              "ToolTip": "C:\\Users\\sr-07\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\9-Validaci\u00F3nTextBox\\9-Validaci\u00F3nTextBox\\Form1.cs*",
+              "RelativeToolTip": "9-Validaci\u00F3nTextBox\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:28:51.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sr-07\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\9-Validaci\u00F3nTextBox\\9-Validaci\u00F3nTextBox\\Form1.cs",
+              "RelativeDocumentMoniker": "9-Validaci\u00F3nTextBox\\Form1.cs",
+              "ToolTip": "C:\\Users\\sr-07\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\9-Validaci\u00F3nTextBox\\9-Validaci\u00F3nTextBox\\Form1.cs [Design]*",
+              "RelativeToolTip": "9-Validaci\u00F3nTextBox\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T06:25:40.235Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

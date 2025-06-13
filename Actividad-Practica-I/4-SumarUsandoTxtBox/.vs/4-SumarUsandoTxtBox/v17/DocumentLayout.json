@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sr-07\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\4-SumarUsandoTxtBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25B25EA0-6EC7-4651-AFD5-277CC42EC4BD}|4-SumarUsandoTxtBox\\4-SumarUsandoTxtBox.csproj|c:\\users\\sr-07\\desktop\\materias actuales\\lenguaje de programaci\u00F3n i inf-4311\\programas\\4-sumarusandotxtbox\\4-sumarusandotxtbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B25EA0-6EC7-4651-AFD5-277CC42EC4BD}|4-SumarUsandoTxtBox\\4-SumarUsandoTxtBox.csproj|solutionrelative:4-sumarusandotxtbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B25EA0-6EC7-4651-AFD5-277CC42EC4BD}|4-SumarUsandoTxtBox\\4-SumarUsandoTxtBox.csproj|C:\\Users\\sr-07\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\4-SumarUsandoTxtBox\\4-sumarusandotxtbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25B25EA0-6EC7-4651-AFD5-277CC42EC4BD}|4-SumarUsandoTxtBox\\4-SumarUsandoTxtBox.csproj|solutionrelative:4-sumarusandotxtbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sr-07\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\4-SumarUsandoTxtBox\\4-SumarUsandoTxtBox\\Form1.cs",
+              "RelativeDocumentMoniker": "4-SumarUsandoTxtBox\\Form1.cs",
+              "ToolTip": "C:\\Users\\sr-07\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\4-SumarUsandoTxtBox\\4-SumarUsandoTxtBox\\Form1.cs",
+              "RelativeToolTip": "4-SumarUsandoTxtBox\\Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T04:14:10.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sr-07\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\4-SumarUsandoTxtBox\\4-SumarUsandoTxtBox\\Form1.cs",
+              "RelativeDocumentMoniker": "4-SumarUsandoTxtBox\\Form1.cs",
+              "ToolTip": "C:\\Users\\sr-07\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\4-SumarUsandoTxtBox\\4-SumarUsandoTxtBox\\Form1.cs [Design]",
+              "RelativeToolTip": "4-SumarUsandoTxtBox\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T04:11:28.875Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

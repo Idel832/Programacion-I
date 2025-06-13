@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sr-07\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\14-TabControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE6FDBF-1404-42EB-B4DD-9916AB3045D3}|14-TabControl\\14-TabControl.csproj|c:\\users\\sr-07\\desktop\\materias actuales\\lenguaje de programaci\u00F3n i inf-4311\\programas\\14-tabcontrol\\14-tabcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EE6FDBF-1404-42EB-B4DD-9916AB3045D3}|14-TabControl\\14-TabControl.csproj|solutionrelative:14-tabcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sr-07\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\14-TabControl\\14-TabControl\\Form1.cs",
+              "RelativeDocumentMoniker": "14-TabControl\\Form1.cs",
+              "ToolTip": "C:\\Users\\sr-07\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\14-TabControl\\14-TabControl\\Form1.cs [Design]",
+              "RelativeToolTip": "14-TabControl\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:41:28.473Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

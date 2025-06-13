@@ -1,0 +1,10 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\1-Formulario-Simple\1-Formulario-Simple\bin\Debug\1-Formulario-Simple.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\1-Formulario-Simple\1-Formulario-Simple\bin\Debug\1-Formulario-Simple.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\1-Formulario-Simple\1-Formulario-Simple\bin\Debug\1-Formulario-Simple.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\1-Formulario-Simple\1-Formulario-Simple\obj\Debug\1-Formulario-Simple.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\1-Formulario-Simple\1-Formulario-Simple\obj\Debug\_1_Formulario_Simple.Form_Main.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\1-Formulario-Simple\1-Formulario-Simple\obj\Debug\_1_Formulario_Simple.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\1-Formulario-Simple\1-Formulario-Simple\obj\Debug\1-Formulario-Simple.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\1-Formulario-Simple\1-Formulario-Simple\obj\Debug\1-Formulario-Simple.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\1-Formulario-Simple\1-Formulario-Simple\obj\Debug\1-Formulario-Simple.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\1-Formulario-Simple\1-Formulario-Simple\obj\Debug\1-Formulario-Simple.pdb
