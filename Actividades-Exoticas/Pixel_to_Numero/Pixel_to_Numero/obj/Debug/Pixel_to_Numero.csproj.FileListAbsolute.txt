@@ -1,0 +1,11 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Ejercicios_en_Clase\Pixel_to_Numero\Pixel_to_Numero\bin\Debug\Pixel_to_Numero.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Ejercicios_en_Clase\Pixel_to_Numero\Pixel_to_Numero\bin\Debug\Pixel_to_Numero.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Ejercicios_en_Clase\Pixel_to_Numero\Pixel_to_Numero\bin\Debug\Pixel_to_Numero.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Ejercicios_en_Clase\Pixel_to_Numero\Pixel_to_Numero\obj\Debug\Pixel_to_Numero.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Ejercicios_en_Clase\Pixel_to_Numero\Pixel_to_Numero\obj\Debug\Pixel_to_Numero.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Ejercicios_en_Clase\Pixel_to_Numero\Pixel_to_Numero\obj\Debug\Pixel_to_Numero.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Ejercicios_en_Clase\Pixel_to_Numero\Pixel_to_Numero\obj\Debug\Pixel_to_Numero.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Ejercicios_en_Clase\Pixel_to_Numero\Pixel_to_Numero\obj\Debug\Pixel_to_Numero.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Ejercicios_en_Clase\Pixel_to_Numero\Pixel_to_Numero\obj\Debug\Pixel_to_Numero.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Ejercicios_en_Clase\Pixel_to_Numero\Pixel_to_Numero\obj\Debug\Pixel_to_Numero.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Ejercicios_en_Clase\Pixel_to_Numero\Pixel_to_Numero\obj\Debug\Pixel_to_Numero.Form_Main.resources
