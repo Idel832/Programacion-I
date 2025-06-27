@@ -1,0 +1,16 @@
+C:\Users\sr-07\source\repos\prueba visual\prueba visual\bin\Debug\net8.0-windows\prueba visual.exe
+C:\Users\sr-07\source\repos\prueba visual\prueba visual\bin\Debug\net8.0-windows\prueba visual.deps.json
+C:\Users\sr-07\source\repos\prueba visual\prueba visual\bin\Debug\net8.0-windows\prueba visual.runtimeconfig.json
+C:\Users\sr-07\source\repos\prueba visual\prueba visual\bin\Debug\net8.0-windows\prueba visual.dll
+C:\Users\sr-07\source\repos\prueba visual\prueba visual\bin\Debug\net8.0-windows\prueba visual.pdb
+C:\Users\sr-07\source\repos\prueba visual\prueba visual\obj\Debug\net8.0-windows\prueba_visual.Form1.resources
+C:\Users\sr-07\source\repos\prueba visual\prueba visual\obj\Debug\net8.0-windows\prueba visual.csproj.GenerateResource.cache
+C:\Users\sr-07\source\repos\prueba visual\prueba visual\obj\Debug\net8.0-windows\prueba visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sr-07\source\repos\prueba visual\prueba visual\obj\Debug\net8.0-windows\prueba visual.AssemblyInfoInputs.cache
+C:\Users\sr-07\source\repos\prueba visual\prueba visual\obj\Debug\net8.0-windows\prueba visual.AssemblyInfo.cs
+C:\Users\sr-07\source\repos\prueba visual\prueba visual\obj\Debug\net8.0-windows\prueba visual.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\source\repos\prueba visual\prueba visual\obj\Debug\net8.0-windows\prueba visual.dll
+C:\Users\sr-07\source\repos\prueba visual\prueba visual\obj\Debug\net8.0-windows\refint\prueba visual.dll
+C:\Users\sr-07\source\repos\prueba visual\prueba visual\obj\Debug\net8.0-windows\prueba visual.pdb
+C:\Users\sr-07\source\repos\prueba visual\prueba visual\obj\Debug\net8.0-windows\prueba visual.genruntimeconfig.cache
+C:\Users\sr-07\source\repos\prueba visual\prueba visual\obj\Debug\net8.0-windows\ref\prueba visual.dll
