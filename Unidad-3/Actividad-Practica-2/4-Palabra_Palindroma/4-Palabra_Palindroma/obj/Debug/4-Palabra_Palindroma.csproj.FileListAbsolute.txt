@@ -1,0 +1,11 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\4-Palabra_Palindroma\4-Palabra_Palindroma\bin\Debug\4-Palabra_Palindroma.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\4-Palabra_Palindroma\4-Palabra_Palindroma\bin\Debug\4-Palabra_Palindroma.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\4-Palabra_Palindroma\4-Palabra_Palindroma\bin\Debug\4-Palabra_Palindroma.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\4-Palabra_Palindroma\4-Palabra_Palindroma\obj\Debug\4-Palabra_Palindroma.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\4-Palabra_Palindroma\4-Palabra_Palindroma\obj\Debug\_4_Palabra_Palindroma.Form_Main.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\4-Palabra_Palindroma\4-Palabra_Palindroma\obj\Debug\_4_Palabra_Palindroma.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\4-Palabra_Palindroma\4-Palabra_Palindroma\obj\Debug\4-Palabra_Palindroma.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\4-Palabra_Palindroma\4-Palabra_Palindroma\obj\Debug\4-Palabra_Palindroma.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\4-Palabra_Palindroma\4-Palabra_Palindroma\obj\Debug\4-Palabra_Palindroma.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\4-Palabra_Palindroma\4-Palabra_Palindroma\obj\Debug\4-Palabra_Palindroma.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\4-Palabra_Palindroma\4-Palabra_Palindroma\obj\Debug\4-Palabra_Palindroma.exe.config

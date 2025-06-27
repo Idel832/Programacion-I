@@ -1,0 +1,11 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\5-Verificación_Primo\5-Verificación_Primo\bin\Debug\5-Verificación_Primo.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\5-Verificación_Primo\5-Verificación_Primo\bin\Debug\5-Verificación_Primo.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\5-Verificación_Primo\5-Verificación_Primo\bin\Debug\5-Verificación_Primo.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\5-Verificación_Primo\5-Verificación_Primo\obj\Debug\5-Verificación_Primo.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\5-Verificación_Primo\5-Verificación_Primo\obj\Debug\_5_Verificación_Primo.Form1.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\5-Verificación_Primo\5-Verificación_Primo\obj\Debug\_5_Verificación_Primo.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\5-Verificación_Primo\5-Verificación_Primo\obj\Debug\5-Verificación_Primo.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\5-Verificación_Primo\5-Verificación_Primo\obj\Debug\5-Verificación_Primo.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\5-Verificación_Primo\5-Verificación_Primo\obj\Debug\5-Verificación_Primo.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\5-Verificación_Primo\5-Verificación_Primo\obj\Debug\5-Verificación_Primo.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\5-Verificación_Primo\5-Verificación_Primo\obj\Debug\5-Verificación_Primo.exe.config

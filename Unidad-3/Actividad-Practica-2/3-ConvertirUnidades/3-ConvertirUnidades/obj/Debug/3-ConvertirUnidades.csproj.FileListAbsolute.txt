@@ -1,0 +1,11 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\3-ConvertirUnidades\3-ConvertirUnidades\bin\Debug\3-ConvertirUnidades.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\3-ConvertirUnidades\3-ConvertirUnidades\bin\Debug\3-ConvertirUnidades.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\3-ConvertirUnidades\3-ConvertirUnidades\bin\Debug\3-ConvertirUnidades.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\3-ConvertirUnidades\3-ConvertirUnidades\obj\Debug\3-ConvertirUnidades.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\3-ConvertirUnidades\3-ConvertirUnidades\obj\Debug\_3_ConvertirUnidades.Form_Main.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\3-ConvertirUnidades\3-ConvertirUnidades\obj\Debug\_3_ConvertirUnidades.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\3-ConvertirUnidades\3-ConvertirUnidades\obj\Debug\3-ConvertirUnidades.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\3-ConvertirUnidades\3-ConvertirUnidades\obj\Debug\3-ConvertirUnidades.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\3-ConvertirUnidades\3-ConvertirUnidades\obj\Debug\3-ConvertirUnidades.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\3-ConvertirUnidades\3-ConvertirUnidades\obj\Debug\3-ConvertirUnidades.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\3-ConvertirUnidades\3-ConvertirUnidades\obj\Debug\3-ConvertirUnidades.exe.config

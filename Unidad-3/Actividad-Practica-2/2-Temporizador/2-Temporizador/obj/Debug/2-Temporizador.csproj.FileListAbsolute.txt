@@ -1,0 +1,11 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\2-Temporizador\2-Temporizador\bin\Debug\2-Temporizador.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\2-Temporizador\2-Temporizador\bin\Debug\2-Temporizador.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\2-Temporizador\2-Temporizador\bin\Debug\2-Temporizador.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\2-Temporizador\2-Temporizador\obj\Debug\2-Temporizador.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\2-Temporizador\2-Temporizador\obj\Debug\_2_Temporizador.Form_Main.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\2-Temporizador\2-Temporizador\obj\Debug\_2_Temporizador.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\2-Temporizador\2-Temporizador\obj\Debug\2-Temporizador.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\2-Temporizador\2-Temporizador\obj\Debug\2-Temporizador.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\2-Temporizador\2-Temporizador\obj\Debug\2-Temporizador.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\2-Temporizador\2-Temporizador\obj\Debug\2-Temporizador.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\2-Temporizador\2-Temporizador\obj\Debug\2-Temporizador.exe.config
