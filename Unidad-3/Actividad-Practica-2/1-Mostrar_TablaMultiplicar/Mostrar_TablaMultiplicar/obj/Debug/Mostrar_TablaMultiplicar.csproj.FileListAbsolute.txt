@@ -1,0 +1,11 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\Mostrar_TablaMultiplicar\Mostrar_TablaMultiplicar\bin\Debug\Mostrar_TablaMultiplicar.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\Mostrar_TablaMultiplicar\Mostrar_TablaMultiplicar\bin\Debug\Mostrar_TablaMultiplicar.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\Mostrar_TablaMultiplicar\Mostrar_TablaMultiplicar\bin\Debug\Mostrar_TablaMultiplicar.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\Mostrar_TablaMultiplicar\Mostrar_TablaMultiplicar\obj\Debug\Mostrar_TablaMultiplicar.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\Mostrar_TablaMultiplicar\Mostrar_TablaMultiplicar\obj\Debug\Mostrar_TablaMultiplicar.Form_Main.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\Mostrar_TablaMultiplicar\Mostrar_TablaMultiplicar\obj\Debug\Mostrar_TablaMultiplicar.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\Mostrar_TablaMultiplicar\Mostrar_TablaMultiplicar\obj\Debug\Mostrar_TablaMultiplicar.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\Mostrar_TablaMultiplicar\Mostrar_TablaMultiplicar\obj\Debug\Mostrar_TablaMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\Mostrar_TablaMultiplicar\Mostrar_TablaMultiplicar\obj\Debug\Mostrar_TablaMultiplicar.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\Mostrar_TablaMultiplicar\Mostrar_TablaMultiplicar\obj\Debug\Mostrar_TablaMultiplicar.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\Mostrar_TablaMultiplicar\Mostrar_TablaMultiplicar\obj\Debug\Mostrar_TablaMultiplicar.exe.config
