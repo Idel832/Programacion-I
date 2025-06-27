@@ -1,0 +1,11 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\7-Listbox_NumerosPrimos\7-Listbox_NumerosPrimos\bin\Debug\7-Listbox_NumerosPrimos.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\7-Listbox_NumerosPrimos\7-Listbox_NumerosPrimos\bin\Debug\7-Listbox_NumerosPrimos.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\7-Listbox_NumerosPrimos\7-Listbox_NumerosPrimos\bin\Debug\7-Listbox_NumerosPrimos.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\7-Listbox_NumerosPrimos\7-Listbox_NumerosPrimos\obj\Debug\7-Listbox_NumerosPrimos.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\7-Listbox_NumerosPrimos\7-Listbox_NumerosPrimos\obj\Debug\_7_Listbox_NumerosPrimos.Form_Main.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\7-Listbox_NumerosPrimos\7-Listbox_NumerosPrimos\obj\Debug\_7_Listbox_NumerosPrimos.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\7-Listbox_NumerosPrimos\7-Listbox_NumerosPrimos\obj\Debug\7-Listbox_NumerosPrimos.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\7-Listbox_NumerosPrimos\7-Listbox_NumerosPrimos\obj\Debug\7-Listbox_NumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\7-Listbox_NumerosPrimos\7-Listbox_NumerosPrimos\obj\Debug\7-Listbox_NumerosPrimos.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\7-Listbox_NumerosPrimos\7-Listbox_NumerosPrimos\obj\Debug\7-Listbox_NumerosPrimos.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\7-Listbox_NumerosPrimos\7-Listbox_NumerosPrimos\obj\Debug\7-Listbox_NumerosPrimos.exe.config

@@ -1,0 +1,11 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\6-NúmeroPerfecto\6-NúmeroPerfecto\bin\Debug\6-NúmeroPerfecto.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\6-NúmeroPerfecto\6-NúmeroPerfecto\bin\Debug\6-NúmeroPerfecto.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\6-NúmeroPerfecto\6-NúmeroPerfecto\bin\Debug\6-NúmeroPerfecto.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\6-NúmeroPerfecto\6-NúmeroPerfecto\obj\Debug\6-NúmeroPerfecto.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\6-NúmeroPerfecto\6-NúmeroPerfecto\obj\Debug\_6_NúmeroPerfecto.Form_Main.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\6-NúmeroPerfecto\6-NúmeroPerfecto\obj\Debug\_6_NúmeroPerfecto.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\6-NúmeroPerfecto\6-NúmeroPerfecto\obj\Debug\6-NúmeroPerfecto.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\6-NúmeroPerfecto\6-NúmeroPerfecto\obj\Debug\6-NúmeroPerfecto.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\6-NúmeroPerfecto\6-NúmeroPerfecto\obj\Debug\6-NúmeroPerfecto.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\6-NúmeroPerfecto\6-NúmeroPerfecto\obj\Debug\6-NúmeroPerfecto.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_2\6-NúmeroPerfecto\6-NúmeroPerfecto\obj\Debug\6-NúmeroPerfecto.exe.config
