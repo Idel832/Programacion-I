@@ -1,0 +1,11 @@
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_3\1-Ejercicio_Lab04\1-Ejercicio_Lab04\bin\Debug\1-Ejercicio_Lab04.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_3\1-Ejercicio_Lab04\1-Ejercicio_Lab04\bin\Debug\1-Ejercicio_Lab04.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_3\1-Ejercicio_Lab04\1-Ejercicio_Lab04\bin\Debug\1-Ejercicio_Lab04.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_3\1-Ejercicio_Lab04\1-Ejercicio_Lab04\obj\Debug\1-Ejercicio_Lab04.csproj.AssemblyReference.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_3\1-Ejercicio_Lab04\1-Ejercicio_Lab04\obj\Debug\_1_Ejercicio_Lab04.Properties.Resources.resources
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_3\1-Ejercicio_Lab04\1-Ejercicio_Lab04\obj\Debug\1-Ejercicio_Lab04.csproj.GenerateResource.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_3\1-Ejercicio_Lab04\1-Ejercicio_Lab04\obj\Debug\1-Ejercicio_Lab04.csproj.CoreCompileInputs.cache
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_3\1-Ejercicio_Lab04\1-Ejercicio_Lab04\obj\Debug\1-Ejercicio_Lab04.exe
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_3\1-Ejercicio_Lab04\1-Ejercicio_Lab04\obj\Debug\1-Ejercicio_Lab04.pdb
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_3\1-Ejercicio_Lab04\1-Ejercicio_Lab04\obj\Debug\1-Ejercicio_Lab04.exe.config
+C:\Users\sr-07\Desktop\Materias actuales\Lenguaje de programación I INF-4311\Programas\Actividad_Practica_3\1-Ejercicio_Lab04\1-Ejercicio_Lab04\obj\Debug\_1_Ejercicio_Lab04.Form_Main.resources
