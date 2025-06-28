@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5EEFB08B-5937-403F-8A69-976903DEC156}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Menu_Global</RootNamespace>
+    <AssemblyName>Menu_Global</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbrirArchivosTexto15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AbrirArchivosTexto15.Designer.cs" />
+    <Compile Include="AgregarElementosListBox7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarElementosListBox7.Designer.cs" />
+    <Compile Include="BotonCambiaTexto2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BotonCambiaTexto2.Designer.cs" />
+    <Compile Include="CalculadoraEspecial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalculadoraEspecial.Designer.cs" />
+    <Compile Include="CalculadoraSimple16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalculadoraSimple16.Designer.cs" />
+    <Compile Include="CambiarBGColor6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CambiarBGColor6.Designer.cs" />
+    <Compile Include="ContandoLetras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContandoLetras.Designer.cs" />
+    <Compile Include="ConteoPalabras8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConteoPalabras8.Designer.cs" />
+    <Compile Include="Controllers\AlumnoController.cs" />
+    <Compile Include="ConvertirUnidades3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConvertirUnidades3.Designer.cs" />
+    <Compile Include="Entities\Alumno.cs" />
+    <Compile Include="FormularioSimple1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormularioSimple1.Designer.cs" />
+    <Compile Include="Form_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Login.Designer.cs">
+      <DependentUpon>Form_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuMain.Designer.cs">
+      <DependentUpon>Form_MenuMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListBoxNumPrimo7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListBoxNumPrimo7.Designer.cs" />
+    <Compile Include="MensajeEmergente10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MensajeEmergente10.Designer.cs" />
+    <Compile Include="MostrarBotonSeleccionado5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MostrarBotonSeleccionado5.Designer.cs" />
+    <Compile Include="MostrarContenidoTextBoxLabel3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MostrarContenidoTextBoxLabel3.Designer.cs" />
+    <Compile Include="MostrarFecha11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MostrarFecha11.Designer.cs" />
+    <Compile Include="MostrarTablaMultiplicar1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MostrarTablaMultiplicar1.Designer.cs" />
+    <Compile Include="NumPixel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NumPixel.Designer.cs" />
+    <Compile Include="PixelNum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PixelNum.Designer.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="ProgressBar13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProgressBar13.Designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistrarEscritura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarEscritura.Designer.cs" />
+    <Compile Include="RegistroAlumnosLab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroAlumnosLab.Designer.cs" />
+    <Compile Include="SumarUsandoTxtBox4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SumarUsandoTxtBox4.Designer.cs" />
+    <Compile Include="TabContro14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TabContro14.Designer.cs" />
+    <Compile Include="Temporizador2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Temporizador2.Designer.cs" />
+    <Compile Include="TransformarTemperaturas12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransformarTemperaturas12.Designer.cs" />
+    <Compile Include="ValidaciónTextBox9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ValidaciónTextBox9.Designer.cs" />
+    <Compile Include="VecesPresionadasBoton8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VecesPresionadasBoton8.Designer.cs" />
+    <Compile Include="VerificacionPrimo5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerificacionPrimo5.Designer.cs" />
+    <Compile Include="VerificarNumPerfecto6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerificarNumPerfecto6.Designer.cs" />
+    <Compile Include="VerificarPalindroma4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerificarPalindroma4.Designer.cs" />
+    <Compile Include="VisualizadorWeb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisualizadorWeb.Designer.cs" />
+    <EmbeddedResource Include="AbrirArchivosTexto15.resx" />
+    <EmbeddedResource Include="AgregarElementosListBox7.resx" />
+    <EmbeddedResource Include="BotonCambiaTexto2.resx" />
+    <EmbeddedResource Include="CalculadoraEspecial.resx" />
+    <EmbeddedResource Include="CalculadoraSimple16.resx" />
+    <EmbeddedResource Include="CambiarBGColor6.resx" />
+    <EmbeddedResource Include="ContandoLetras.resx" />
+    <EmbeddedResource Include="ConteoPalabras8.resx" />
+    <EmbeddedResource Include="ConvertirUnidades3.resx" />
+    <EmbeddedResource Include="FormularioSimple1.resx" />
+    <EmbeddedResource Include="Form_Login.resx">
+      <DependentUpon>Form_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuMain.resx">
+      <DependentUpon>Form_MenuMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListBoxNumPrimo7.resx" />
+    <EmbeddedResource Include="MensajeEmergente10.resx" />
+    <EmbeddedResource Include="MostrarBotonSeleccionado5.resx" />
+    <EmbeddedResource Include="MostrarContenidoTextBoxLabel3.resx" />
+    <EmbeddedResource Include="MostrarFecha11.resx" />
+    <EmbeddedResource Include="MostrarTablaMultiplicar1.resx" />
+    <EmbeddedResource Include="NumPixel.resx" />
+    <EmbeddedResource Include="PixelNum.resx" />
+    <EmbeddedResource Include="ProgressBar13.resx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RegistrarEscritura.resx" />
+    <EmbeddedResource Include="RegistroAlumnosLab.resx" />
+    <EmbeddedResource Include="SumarUsandoTxtBox4.resx" />
+    <EmbeddedResource Include="TabContro14.resx" />
+    <EmbeddedResource Include="Temporizador2.resx" />
+    <EmbeddedResource Include="TransformarTemperaturas12.resx" />
+    <EmbeddedResource Include="ValidaciónTextBox9.resx" />
+    <EmbeddedResource Include="VecesPresionadasBoton8.resx" />
+    <EmbeddedResource Include="VerificacionPrimo5.resx" />
+    <EmbeddedResource Include="VerificarNumPerfecto6.resx" />
+    <EmbeddedResource Include="VerificarPalindroma4.resx" />
+    <EmbeddedResource Include="VisualizadorWeb.resx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
