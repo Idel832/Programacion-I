@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\Proyecto Final\\ProyectoFinal_GestionAlmacen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C7CF0B-FF28-4495-8034-96D8D1FDA369}|ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen.csproj|D:\\Archivos de usuario\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\Proyecto Final\\ProyectoFinal_GestionAlmacen\\proyectofinal_gestionalmacen\\form_menumain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3C7CF0B-FF28-4495-8034-96D8D1FDA369}|ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen.csproj|solutionrelative:proyectofinal_gestionalmacen\\form_menumain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C7CF0B-FF28-4495-8034-96D8D1FDA369}|ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen.csproj|D:\\Archivos de usuario\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\Proyecto Final\\ProyectoFinal_GestionAlmacen\\proyectofinal_gestionalmacen\\form_menumain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C7CF0B-FF28-4495-8034-96D8D1FDA369}|ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen.csproj|solutionrelative:proyectofinal_gestionalmacen\\form_menumain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C7CF0B-FF28-4495-8034-96D8D1FDA369}|ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen.csproj|d:\\archivos de usuario\\desktop\\materias actuales\\lenguaje de programaci\u00F3n i inf-4311\\programas\\proyecto final\\proyectofinal_gestionalmacen\\proyectofinal_gestionalmacen\\form_editarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C7CF0B-FF28-4495-8034-96D8D1FDA369}|ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen.csproj|solutionrelative:proyectofinal_gestionalmacen\\form_editarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C7CF0B-FF28-4495-8034-96D8D1FDA369}|ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen.csproj|d:\\archivos de usuario\\desktop\\materias actuales\\lenguaje de programaci\u00F3n i inf-4311\\programas\\proyecto final\\proyectofinal_gestionalmacen\\proyectofinal_gestionalmacen\\form_editarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3C7CF0B-FF28-4495-8034-96D8D1FDA369}|ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen.csproj|solutionrelative:proyectofinal_gestionalmacen\\form_editarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C7CF0B-FF28-4495-8034-96D8D1FDA369}|ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen.csproj|D:\\Archivos de usuario\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\Proyecto Final\\ProyectoFinal_GestionAlmacen\\proyectofinal_gestionalmacen\\form_mostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3C7CF0B-FF28-4495-8034-96D8D1FDA369}|ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen.csproj|solutionrelative:proyectofinal_gestionalmacen\\form_mostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C7CF0B-FF28-4495-8034-96D8D1FDA369}|ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen.csproj|d:\\archivos de usuario\\desktop\\materias actuales\\lenguaje de programaci\u00F3n i inf-4311\\programas\\proyecto final\\proyectofinal_gestionalmacen\\proyectofinal_gestionalmacen\\form_mostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C7CF0B-FF28-4495-8034-96D8D1FDA369}|ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen.csproj|solutionrelative:proyectofinal_gestionalmacen\\form_mostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_MenuMain.cs [Design]",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\Proyecto Final\\ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen\\Form_MenuMain.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal_GestionAlmacen\\Form_MenuMain.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\Proyecto Final\\ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen\\Form_MenuMain.cs [Design]",
+              "RelativeToolTip": "ProyectoFinal_GestionAlmacen\\Form_MenuMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:34:41.783Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_MenuMain.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\Proyecto Final\\ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen\\Form_MenuMain.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal_GestionAlmacen\\Form_MenuMain.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\Proyecto Final\\ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen\\Form_MenuMain.cs",
+              "RelativeToolTip": "ProyectoFinal_GestionAlmacen\\Form_MenuMain.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAAKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T21:08:52.583Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_EditarProductos.cs [Design]",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\Proyecto Final\\ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen\\Form_EditarProductos.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal_GestionAlmacen\\Form_EditarProductos.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\Proyecto Final\\ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen\\Form_EditarProductos.cs [Design]",
+              "RelativeToolTip": "ProyectoFinal_GestionAlmacen\\Form_EditarProductos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T18:42:35.475Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_EditarProductos.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\Proyecto Final\\ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen\\Form_EditarProductos.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal_GestionAlmacen\\Form_EditarProductos.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\Proyecto Final\\ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen\\Form_EditarProductos.cs",
+              "RelativeToolTip": "ProyectoFinal_GestionAlmacen\\Form_EditarProductos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T18:42:33.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form_MostrarProductos.cs",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\Proyecto Final\\ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen\\Form_MostrarProductos.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal_GestionAlmacen\\Form_MostrarProductos.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\Proyecto Final\\ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen\\Form_MostrarProductos.cs",
+              "RelativeToolTip": "ProyectoFinal_GestionAlmacen\\Form_MostrarProductos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T17:24:10.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_MostrarProductos.cs [Design]",
+              "DocumentMoniker": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\Proyecto Final\\ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen\\Form_MostrarProductos.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal_GestionAlmacen\\Form_MostrarProductos.cs",
+              "ToolTip": "D:\\Archivos de usuario\\Desktop\\Materias actuales\\Lenguaje de programaci\u00F3n I INF-4311\\Programas\\Proyecto Final\\ProyectoFinal_GestionAlmacen\\ProyectoFinal_GestionAlmacen\\Form_MostrarProductos.cs [Design]",
+              "RelativeToolTip": "ProyectoFinal_GestionAlmacen\\Form_MostrarProductos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T17:20:32.188Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
